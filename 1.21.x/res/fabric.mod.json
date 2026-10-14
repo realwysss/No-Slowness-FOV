@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "noslownessfov",
+  "name": "NoSlownessFOV",
+  "version": "1.0.0",
+  "description": "A clean and simple mod that completely removes the Slowness FOV effect while preserving all other FOV alterations like Swiftness, Sprinting, and Flying. Created by truefuly.",
+  "authors": [
+    "truefuly"
+  ],
+  "contact": {
+    "homepage": "https://github.com/truefuly/NoSlownessFOV",
+    "sources": "https://github.com/truefuly/NoSlownessFOV"
+  },
+  "license": "MIT",
+  "icon": "assets/noslownessfov/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "net.truefuly.noslownessfov.NoSlownessFOV"
+    ]
+  },
+  "mixins": [
+    "noslownessfov.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": ">=1.21 <1.22",
+    "java": ">=21"
+  }
+}
