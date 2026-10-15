@@ -11,7 +11,7 @@
     "homepage": "https://github.com/truefuly/NoSlownessFOV",
     "sources": "https://github.com/truefuly/NoSlownessFOV"
   },
-  "license": "MIT",
+  "license": "All-Rights-Reserved",
   "icon": "assets/noslownessfov/icon.png",
   "environment": "client",
   "entrypoints": {

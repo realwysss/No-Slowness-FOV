@@ -5,7 +5,7 @@
 A clean and simple mod that completely removes the Slowness FOV effect while preserving all other FOV alterations like Swiftness, Sprinting, and Flying. Created by truefuly.
 
 author: truefuly
-license: MIT
+all rights reserved. made by wysss.
 
 ## downloads
 
